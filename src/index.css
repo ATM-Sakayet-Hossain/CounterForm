@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+form{
+    width: 600px;
+    border: 3px solid blue;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: auto;
+    margin-top: 20%;
+}
+
+/* echo "# CounterForm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ATM-Sakayet-Hossain/CounterForm.git
+git push -u origin main */
